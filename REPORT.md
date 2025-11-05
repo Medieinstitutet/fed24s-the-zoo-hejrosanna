@@ -70,8 +70,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 - C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-hejrosanna\src\models\animal.ts - no-console - Unexpected console statement.
 
-## 🏆 **Betyg: IG**
-📌 **Motivering:** De grundläggande kraven för betyg G känns inte fullständigt uppfyllda. Informationen och kodstrukturen saknar tydliga bevis på funktionalitet såsom routerhantering, datahämtning, och djurmatningslogik.
+## 🏆 **Betyg: G**
+📌 **Motivering:** Projektet uppfyller samtliga G-krav: router, översikt- och detaljsidor för djur samt korrekt hantering av styling och bildfel. Dock saknas implementering av vissa VG-krav som användande av context, services/custom hooks och reducers.
 
 💡 **Förbättringsförslag:**  
-Studenter bör säkerställa att routerhantering, datahämtning och all begärd funktionalitet implementeras och fungerar korrekt. Vidare bör felhantering och statusindikation för djur läggas till.
+För att nå VG bör ni implementera context API för att hantera state och kommunikation samt överväga användande av custom hooks eller services för datainhämtning och reducers för statehantering istället för lokal component state.
