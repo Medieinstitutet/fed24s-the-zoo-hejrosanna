@@ -70,8 +70,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 - C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-hejrosanna\src\models\animal.ts - no-console - Unexpected console statement.
 
-## 🏆 **Betyg: VG**
-📌 **Motivering:** Koden uppfyller alla krav för både G och VG. Den är strukturerad och använder moderna tekniker och metoder för att hantera djurdata på ett effektivt sätt. Routers, services och loaders används korrekt, och det finns en väl genomtänkt implementation för att hantera bildfel. CSS och andra stylingslösningar är genomtänkta och responsive, och det finns en hantering för djurens matstatus baserat på tidskrav. Reducers används för state management och kontext används istället för props för komponentkommunikation. Det finns också några subtila animeringar vid knapptryckningar och andra interaktioner.
+## 🏆 **Betyg: IG**
+📌 **Motivering:** De grundläggande kraven för betyg G känns inte fullständigt uppfyllda. Informationen och kodstrukturen saknar tydliga bevis på funktionalitet såsom routerhantering, datahämtning, och djurmatningslogik.
 
 💡 **Förbättringsförslag:**  
-Det finns vissa aspekter som kan optimeras ytterligare, som att bryta ut vissa delar till mindre, mer specifika komponenter för att förbättra återanvändbarheten och testbarheten. Det kan också vara bra att inkludera fler enhetstester för att säkerställa kodens robusthet över tid.
+Studenter bör säkerställa att routerhantering, datahämtning och all begärd funktionalitet implementeras och fungerar korrekt. Vidare bör felhantering och statusindikation för djur läggas till.
