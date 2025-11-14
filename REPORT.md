@@ -66,10 +66,10 @@ Välj en teknik gällande css som ni antingen vill lära er mer om eller som ni 
 Ha roligt, skratta och lär er massor!
 
 ## 🔍 ESLint-varningar:
-- C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-hejrosanna\src\models\animal.ts - no-console - Unexpected console statement.
+- /app/repos/fed24s-the-zoo-hejrosanna/src/models/animal.ts - no-console - Unexpected console statement.
 
 ## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyg G. Koden är välstrukturerad och följer etablerade konventioner för frontend-utveckling. De flesta funktionaliteter är implementerade enligt specifikationerna, inklusive korrekt användning av en router och hantering av trasiga bildlänkar. Dock saknas vissa avancerade funktioner och förbättringar som krävs för VG-nivå, såsom användning av context och reducers, samt subtila animeringar.
+📌 **Motivering:** Koden uppfyller de grundläggande kraven för betyg G. Projektet använder en router för att visa olika sidor och hanterar trasiga bildlänkar korrekt. Det finns en översiktssida för djuren där man kan klicka på ett djur och mata det på djur-detaljsidan. Styling är implementerad med en annan teknik än ren CSS. Dock finns det vissa förbättringsområden som kan adresseras för att nå betyget VG.
 
 💡 **Förbättringsförslag:**  
-För att nå VG-nivå bör projektet implementera datahämtning med tjänster eller en custom hook, använda context istället för props för komponentkommunikation, och använda reducers för djurhantering. Dessutom kan subtila animeringar läggas till för att förbättra användarupplevelsen och göra applikationen mer engagerande.
+För att uppnå betyget VG bör projektet använda context istället för props för komponentkommunikation och reducers istället för state för djurhantering. Implementera datahämtning med tjänster eller en custom hook. Lägg till subtila animeringar vid knapptryckningar och sidladdningar. Förbättra kodkvaliteten genom att minska kodupprepning och säkerställa att alla komponenter är välkommenterade. Se till att naming conventions följs konsekvent och att error handling är mer robust.
