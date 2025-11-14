@@ -1,7 +1,6 @@
 # 📌 Rättningsrapport – fed24s-the-zoo-hejrosanna
 
 ## 🎯 Uppgiftens Krav:
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xBUCHFwF)
 # The Zoo
 
 I denna inlämningsuppgift kommer ni att bygga ett zoo. Zoo:t har ett antal djur som kommer behöva matas. 
@@ -66,12 +65,11 @@ Välj en teknik gällande css som ni antingen vill lära er mer om eller som ni 
 
 Ha roligt, skratta och lär er massor!
 
-
 ## 🔍 ESLint-varningar:
 - C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-hejrosanna\src\models\animal.ts - no-console - Unexpected console statement.
 
-## 🏆 **Betyg: IG**
-📌 **Motivering:** Tekniskt fel vid AI-analys. Kontrollera manuellt.
+## 🏆 **Betyg: G**
+📌 **Motivering:** Projektet uppfyller alla krav för betyget G. Koden är välstrukturerad och uppfyller de grundläggande kraven för funktionalitet och användargränssnitt. Dock saknas flera avancerade funktioner och tekniker som krävs för betyget VG, såsom användning av context API, reducers och subtila animeringar.
 
 💡 **Förbättringsförslag:**  
-Automatisk rättning med AI-assistant misslyckades. Vänligen kontrollera koden manuellt.
+För att nå VG-nivå bör studenten implementera datahämtning med hjälp av tjänster eller en custom hook, använda context istället för props för komponentkommunikation, och använda reducers för tillståndshantering av djur. Lägg till subtila animeringar för att förbättra användarupplevelsen och förbättra felhanteringen, särskilt vid API-anrop. Mer omfattande kodkommentarer kan också hjälpa till att förklara komplex logik och beslut.
